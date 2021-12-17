@@ -8,6 +8,6 @@
 - B.S. Robotics @Hanyang Univ. ERICA (2016.03 - 2022.02)
 
 ### ★ Interest
-- Robot Simulation
 - SLAM, Navigation
+- Robot Simulation
 - Camera Vision System
