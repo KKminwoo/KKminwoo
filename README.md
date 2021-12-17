@@ -9,5 +9,5 @@
 
 ### ★ Interest
 - Robot Simulation
-- Autonomous Driving
+- SLAM, Navigation
 - Camera Vision System
