@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m Minwoo
 -> Enjoying immersion  
--> Want to make robot 'Works Well'
 
 ### ★ Information
 - Robotics Manager @Hyundai Glovis (2021.10 - ing)
